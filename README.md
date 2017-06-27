@@ -12,7 +12,7 @@ WordSegmentation
 
 向后最大匹配：bmm
 
-python run
+    python run.py
 
 就实验了几行，因为太慢
 
