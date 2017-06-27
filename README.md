@@ -1,7 +1,7 @@
 # bistu_nlp_course
 data
 ------
-基于hownet 的 words——list
+基于hownet 的 words_list
 
 
 WordSegmentation
@@ -14,7 +14,7 @@ WordSegmentation
 
 python run
 
-就实验了几行，因为分词太慢
+就实验了几行，因为太慢
 
 RNN
 ------
